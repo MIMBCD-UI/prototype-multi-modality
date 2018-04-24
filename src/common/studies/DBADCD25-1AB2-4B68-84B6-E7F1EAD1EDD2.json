@@ -1,0 +1,87 @@
+[
+    {
+        "patientName": "Anonymized4",
+        "patientId": "DBADCD25-1AB2-4B68-84B6-E7F1EAD1EDD2",
+        "studyDate": "20160308",
+        "modality": "Breast",
+        "studyDescription": "Breast",
+        "numImages": 1,
+        "studyId": "7e88484f-ed724a2c-9b53bfa7-4bb69ee0-3d61fb4f",
+        "seriesList": [
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "1",
+                "instanceList": [
+                    {
+                        "imageId": "81d3e99d-1afb4b5a-16eb254d-f7da5451-a834c9f9/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "1",
+                "instanceList": [
+                    {
+                        "imageId": "6c0e8034-f89e587f-7497ed61-68e90a04-537d69ff/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "1",
+                "instanceList": [
+                    {
+                        "imageId": "eea838b7-64411a43-306c62d5-8894fe6a-4d1f97be/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "1",
+                "instanceList": [
+                    {
+                        "imageId": "18cc6ff5-f2bf4902-80578ecc-0ceeef03-78a1dc18/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "1",
+                "instanceList": [
+                    {
+                        "imageId": "e66dbc9b-d46a9f3b-e081411b-75db6989-a7f4bd54/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "1",
+                "instanceList": [
+                    {
+                        "imageId": "a204ceb9-c6b2857d-4785a6ff-1ccf9455-85b81b1b/file"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patientName": "Anonymized4",
+        "patientId": "DBADCD25-1AB2-4B68-84B6-E7F1EAD1EDD2",
+        "studyDate": "20160615",
+        "modality": "Breast",
+        "studyDescription": "Breast",
+        "numImages": 1,
+        "studyId": "fb72b779-3f8c6988-820971a7-3d96f2c4-8877fea6",
+        "seriesList": [
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "2",
+                "instanceList": [
+                    {
+                        "imageId": "62f6c28b-bd811df5-d012a458-34b6cdb3-88463d97/file"
+                    }
+                ]
+            }
+        ]
+    }
+]

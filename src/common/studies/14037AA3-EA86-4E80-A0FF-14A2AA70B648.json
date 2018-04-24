@@ -1,0 +1,69 @@
+[
+    {
+        "patientName": "Anonymized5",
+        "patientId": "14037AA3-EA86-4E80-A0FF-14A2AA70B648",
+        "studyDate": "20160229",
+        "modality": "Mamografia Bilateral",
+        "studyDescription": "Mamografia Bilateral",
+        "numImages": 1,
+        "studyId": "a84eb135-16ac7311-e04b096d-407593f5-9b743015",
+        "seriesList": [
+            {
+                "seriesDescription": "MG",
+                "seriesNumber": "2",
+                "instanceList": [
+                    {
+                        "imageId": "fdd70fc9-7b49dbcc-909307b2-7289b392-631cd119/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "MG",
+                "seriesNumber": "2",
+                "instanceList": [
+                    {
+                        "imageId": "ea7dd2f8-fe00eec7-9fd096e4-0f79d630-5f96df9f/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "MG",
+                "seriesNumber": "2",
+                "instanceList": [
+                    {
+                        "imageId": "e11247e8-db77e302-11f8277f-fdf4fa35-303cf8e3/file"
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "MG",
+                "seriesNumber": "2",
+                "instanceList": [
+                    {
+                        "imageId": "4b0a1df2-33a4eb24-668e55e3-38e78de2-8fd79191/file"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patientName": "Anonymized5",
+        "patientId": "14037AA3-EA86-4E80-A0FF-14A2AA70B648",
+        "studyDate": "20160229",
+        "modality": "Ecografia Mamaria",
+        "studyDescription": "Ecografia Mamaria",
+        "numImages": 1,
+        "studyId": "8fb7e775-87290ce7-86088cba-db57c5ee-86511ddb",
+        "seriesList": [
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "2",
+                "instanceList": [
+                    {
+                        "imageId": "a12cba36-662c93c9-0a1bf320-585d3bee-8de13d1f/file"
+                    }
+                ]
+            }
+        ]
+    }
+]
