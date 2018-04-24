@@ -1,6 +1,6 @@
 # MIMBCD-UI Multi Modality Prototype
 
-<img src="https://github.com/MIMBCD-UI/prototype-breast-screening/blob/master/assets/banner.png?raw=true"/>
+<img src="https://github.com/MIMBCD-UI/prototype-multi-modality/blob/master/assets/banner.png?raw=true"/>
 
 [MIMBCD-UI](https://mimbcd-ui.github.io/) is a Research Project that deals with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). These deep networks will incorporate information from several different modes by a User Interface (UI) implemented based on our [Prototype Breast Screening](https://github.com/MIMBCD-UI/prototype-breast-screening) repository. The hereby repository is a mirror of our [Prototype Breast Screening](https://github.com/MIMBCD-UI/prototype-breast-screening) repository which is an Open Source Project with the goal to deliver an example of web based medical imaging platform for the breast cancer diagnosis. We also have several demos to see in our [YouTube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw), please follow us.
 
