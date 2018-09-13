@@ -1,0 +1,62 @@
+[
+    {
+        "patientName": "Anonymized2",
+        "patientId": "e0f31a63-658c-4505-b20d-1871f8f49d7e",
+        "studyDate": "",
+        "modality": "Mamografia",
+        "studyDescription": "Mamografia",
+        "numImages": 1,
+        "studyId": "5291d520-f2500976-7f11ea99-cf6137ce-e4f07d75",
+        "seriesList": [
+            {
+                "seriesDescription": "MG",
+                "seriesNumber": "3495",
+                "instanceList": [
+                    {
+                        "imageId": "c11bb5de-0317195d-546b4e2f-a5c78768-eef8e660/file"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patientName": "Anonymized2",
+        "patientId": "e0f31a63-658c-4505-b20d-1871f8f49d7e",
+        "studyDate": "",
+        "modality": "Breast",
+        "studyDescription": "Breast",
+        "numImages": 1,
+        "studyId": "433b7929-d14c1c84-bfaa6ca8-ac95fbb3-92ca7a71",
+        "seriesList": [
+            {
+                "seriesDescription": "US",
+                "seriesNumber": "1",
+                "instanceList": [
+                    {
+                        "imageId": "ccbb1566-5d3b7475-7c4c212a-19434dda-0f8e86f5/file"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patientName": "Anonymized2",
+        "patientId": "e0f31a63-658c-4505-b20d-1871f8f49d7e",
+        "studyDate": "",
+        "modality": "MAMA^ROTINA",
+        "studyDescription": "MAMA^ROTINA",
+        "numImages": 1,
+        "studyId": "fdfe3326-0da97f35-e879353f-a10ad9cf-8baf028a",
+        "seriesList": [
+            {
+                "seriesDescription": "MR",
+                "seriesNumber": "7",
+                "instanceList": [
+                    {
+                        "imageId": "faae556d-988bc11f-696f6b0a-97e0ebb5-7150e26a/file"
+                    }
+                ]
+            }
+        ]
+    }
+]
