@@ -57,3 +57,16 @@ typings/
 # dotenv environment variables file
 .env
 
+# Configuration Environments
+config/*
+!config/sample-env.json
+!config/sample-local.json
+
+# DICOM Images Information
+src/common/studies/*
+src/common/studyList.json
+!src/common/studies/.gitkeep
+
+# Dataset Information
+dataset/*
+!dataset/.gitkeep
