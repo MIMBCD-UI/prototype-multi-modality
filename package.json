@@ -49,7 +49,7 @@
     "grunt-contrib-qunit": "^5.1.1",
     "grunt-contrib-uglify": "^0.4.0",
     "grunt-contrib-watch": "^1.1.0",
-    "html-webpack-plugin": "^3.0.4",
+    "html-webpack-plugin": "^5.5.0",
     "jest": "^27.5.1",
     "jshint": "^2.9.5",
     "jshint-loader": "^0.8.4",
