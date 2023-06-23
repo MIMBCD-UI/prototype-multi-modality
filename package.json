@@ -81,7 +81,7 @@
     "http-server": "^14.1.0",
     "merry": "^5.5.2",
     "requirejs": "^2.3.5",
-    "semver": "^5.5.0",
+    "semver": "^7.5.2",
     "serve-static": "^1.13.2"
   }
 }
