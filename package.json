@@ -80,7 +80,7 @@
     "grunt": "^1.5.3",
     "http-server": "^14.1.0",
     "merry": "^5.5.2",
-    "requirejs": "^2.3.5",
+    "requirejs": "^2.3.7",
     "semver": "^7.5.2",
     "serve-static": "^1.13.2"
   }
