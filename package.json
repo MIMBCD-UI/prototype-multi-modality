@@ -74,7 +74,7 @@
     "ecstatic": "^4.1.4",
     "esdoc": "^0.0.2",
     "esdoc-standard-plugin": "^1.0.0",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "finalhandler": "^1.1.1",
     "fs": "^0.0.1-security",
     "grunt": "^1.5.3",
