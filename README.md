@@ -42,6 +42,20 @@ The following assumes you will be using a [git](https://git-scm.com/) version co
 
 You can [download](https://www.orthanc-server.com/download.php) a latest version or you can use our own sample of an [Orthanc](https://www.orthanc-server.com/) version with our examples of patient images. The instructions to use our solution are as follows.
 
+#### Clone
+
+1.1.1. Clone the DICOM Server [repository](https://github.com/MIMBCD-UI/dicom-server):
+
+```
+git clone https://github.com/MIMBCD-UI/dicom-server.git
+```
+
+1.1.2. Go inside the project folder:
+
+```
+cd dicom-server/
+```
+
 #### Install
 
 1.2.1. Install the local dependencies:
@@ -93,7 +107,7 @@ Our main server uses [NodeJS](https://nodejs.org/en/) and has several [dependenc
 2.1.1. Clone the project repository:
 
 ```
-git clone git@github.com:MIMBCD-UI/prototype-multi-modality.git
+git clone https://github.com/MIMBCD-UI/prototype-multi-modality.git
 ```
 
 2.1.2. Go inside the project folder:
